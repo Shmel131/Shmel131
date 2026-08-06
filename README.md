@@ -37,7 +37,7 @@
   https://github.com/l3eg1nner/dl-project-uav-detection (писали вместе с однокурсником).
 
 - **Курсовой проект по машинному обучению: предсказание цен на акции NVIDIA**
-  (ноутбук)
+  [(notebook)](https://github.com/Shmel131/ml_project)
 
 
 ### Telegram: [@gospodin_131](https://telegram.me/gospodin_131)
