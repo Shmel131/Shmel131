@@ -31,13 +31,11 @@
 
 - **AI Challenge 2026**: сейчас решаю задачу основного этапа.
 
-- **E-Cup**: зарегистрировался, жду начала.
-
 - **Курсовой проект по основам глубокого обучения: детекция дронов на изображениях с помощью модификаций RT-DETR**
-  https://github.com/l3eg1nner/dl-project-uav-detection (писали вместе с однокурсником).
+  [(GitHub)](https://github.com/l3eg1nner/dl-project-uav-detection) (писали вместе с однокурсником).
 
 - **Курсовой проект по машинному обучению: предсказание цен на акции NVIDIA**
-  [(notebook)](https://github.com/Shmel131/ml_project)
+  [(GitHub)](https://github.com/Shmel131/ml_project)
 
 
 ### Telegram: [@gospodin_131](https://telegram.me/gospodin_131)
